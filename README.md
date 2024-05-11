@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @codeAntu
-- 👀 I’m interested in C programming and Web Development.
-- 🌱 I’m currently learning C programming.
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Javascript and Web Development.
+- 🌱 I’m currently learning Backend 
 - 📫 How to reach me codeantu@gmail.com
 
 <!---
