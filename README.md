@@ -17,14 +17,6 @@ Hi there! I'm **Ananta Karmakar** 👨‍💻, a **Frontend Engineer** and **Rea
 
 ### 🛠️ **Tools & Testing**  
 **Git** | **GitHub** | **Postman** | **Jest** | **Vitest** | **Figma**  
-
----
-
-## 📊 **GitHub Stats**  
-
-![Ananta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeAntu&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeAntu&layout=compact&theme=radical)  
-
 ---
 
 
