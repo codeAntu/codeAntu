@@ -1,23 +1,23 @@
-# 🌟 Welcome to **Ananta Karmakar's** GitHub! 👋  
+## About Me
 
-Hi there! I'm **Ananta Karmakar** 👨‍💻, a **Frontend Engineer** and **React Native Developer** who loves crafting sleek, responsive, and high-performance web and mobile applications. 🚀  
+I am a software engineer with a passion for web development. I love to create things that make people's lives easier. Whether it is a web application, mobile application, or a command line tool, I love to create them.
 
----
+- **B.Tech** in Computer Science and Engineering
+- **3+ years** of experience in Web Development
+- Currently working as a **Frontend Engineer**
 
-## 🎨 **Technologies & Skills**  
+Please visit my **[Portfolio](https://codeantu.vercel.app/)** to see some of my projects.
 
-### 🖍️ **Languages**  
-`HTML` `CSS` `JavaScript` `TypeScript` `SQL` `C` `C++` `Java` `Python` `Rust` 
+## Get in Touch
 
-### 🖥️ **Frontend**  
-**React.js** | **Next.js** | **React Native** | **Redux Toolkit** | **Zustand** | **Tailwind CSS** | **Framer Motion** | **Shadcn**  
+I'm always excited to connect with fellow developers, researchers, and technology enthusiasts. You can reach out to me through:
 
-### ⚙️ **Backend & APIs**  
-**Node.js** | **Express.js** | **tRPC** | **MongoDB**  
+**📧 Email:** [codeAntu@gmail.com](mailto:codeAntu@gmail.com)  
+**💼 LinkedIn:** [codeAntu](https://www.linkedin.com/in/codeantu/)  
+**🐦 Twitter:** [@codeAntu](https://x.com/codeAntu)
 
-### 🛠️ **Tools & Testing**  
-**Git** | **GitHub** | **Postman** | **Jest** | **Vitest** | **Figma**  
----
+Feel free to contact me for collaboration opportunities, discussions, or any questions you may have.
 
+## 
 
-✨ _"Coding is not just about writing code, it's about crafting experiences."_ ✨  
+Powered by caffeine & code ☕️ | Debugging life one commit at a time
