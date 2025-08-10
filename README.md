@@ -10,6 +10,8 @@ I enjoy solving real-world problems and am also open to exploring new technologi
 
 Visit my **[Portfolio](https://codeantu.vercel.app/)** to see some of my projects.
 
+![Resume](https://codeantu.github.io/media/Screenshot_Resume.png)
+
 ## Get in Touch
 
 I'm always excited to connect with fellow developers, researchers, and technology enthusiasts. You can reach out to me through:
