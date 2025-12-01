@@ -4,7 +4,6 @@ I am a software engineer with a passion for web development. I love to create th
 
 - **2+ years** of professional experience as a Frontend Engineer
 - **4+ years** of coding and freelancing experience
-- Pursuing **B.Tech** in Computer Science and Engineering
 
 I enjoy solving real-world problems and am also open to exploring new technologies.
 
